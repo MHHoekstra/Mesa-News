@@ -1,0 +1,12 @@
+{
+   "wrongEmailOrPassSnackbarText": "E-mail ou senha inválidos!",
+   "noInternetAccessSnackbarText": "Sem conexão com a internet!",
+   "feedErrorSnackbarText": "Ops... não foi possivel carregar mais notícias",
+   "landingScreenButtonText": "Entrar com e-mail",
+   "loginScreenTitle": "Entrar com e-mail",
+   "newsFeedScreenTitle": "Mesa News",
+   "drawerTitle": "Mesa News",
+   "drawerFavorites": "Favoritos",
+   "drawerExit": "Sair",
+   "newsBookmarkedScreenTitle": "Mesa News"
+}
